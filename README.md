@@ -1,5 +1,5 @@
 # Advanced_Regression_Housing_Price
-Predictiong Boston Housing Prices using an Averaging Model
+Predicting Boston Housing Prices using an Averaging Model
  
 ## Handling of data leakage
 The model has not been exposed to the actual test data set before training. So the model has no prior information about the test set.      Similar strategy has been used on the test set created from the train set.
